@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Stonehenge Guide</string>
     <string name="action_settings">Settings</string>
+    <string name="title_text">Stonehenge</string>
+    <string name="detail_text">One of the most famous site in the world, Stonehenge is a prehistoric monument located in Wiltshire, England, about 2 miles west of Amesbury and 8 miles north of Salisbury.</string>
+    <string name="title_activity_image">Stonehenge</string>
 </resources>
