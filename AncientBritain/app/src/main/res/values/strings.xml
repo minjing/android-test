@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ancient Britain</string>
+    <string name="detail_text_henge">detail_text_henge</string>
+    <string name="detail_text_horse">detail_text_horse</string>
+    <string name="detail_text_wall">detail_text_wall</string>
+    <string name="detail_text_skara">detail_text_skara</string>
+    <string name="detail_text_tower">detail_text_tower</string>
+    <string name="title_activity_activity_detail">ActivityDetail</string>
 </resources>
